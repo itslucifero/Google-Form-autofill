@@ -8,4 +8,11 @@ You can cancel the loop by deleting : while statement or making true and breakin
 
 Update coming soon
 
+Req:
+pip install selenium
+pip install random
+pip install webdriver_manager.chrome
+
+You don't need chrome driver it will be auto downloaded
+
 USE : python3 Google-Form-autofill.py
